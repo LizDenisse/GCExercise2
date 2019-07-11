@@ -1,0 +1,11 @@
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\bin\Debug\netcoreapp2.1\GCExercise2.deps.json
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\bin\Debug\netcoreapp2.1\GCExercise2.runtimeconfig.json
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\bin\Debug\netcoreapp2.1\GCExercise2.runtimeconfig.dev.json
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\bin\Debug\netcoreapp2.1\GCExercise2.dll
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\bin\Debug\netcoreapp2.1\GCExercise2.pdb
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\obj\Debug\netcoreapp2.1\GCExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\obj\Debug\netcoreapp2.1\GCExercise2.AssemblyInfoInputs.cache
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\obj\Debug\netcoreapp2.1\GCExercise2.AssemblyInfo.cs
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\obj\Debug\netcoreapp2.1\GCExercise2.dll
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\obj\Debug\netcoreapp2.1\GCExercise2.pdb
+C:\Users\Eliza\source\repos\GCExercises\GCExercise2\obj\Debug\netcoreapp2.1\GCExercise2.csprojAssemblyReference.cache
